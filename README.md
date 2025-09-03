@@ -19,3 +19,6 @@
 | `/examples` | ダミー成果物 | 見積PDF/週次MD/KPI CSV |
 | `/metrics` | KPI定義/ログ | 効果の可視化・ROI説明 |
 | `/runbooks` | 運用/エスカレーション | 導入後の運用の見える化 |
+
+## 📜 プロンプトサンプル
+- [WBS分解済みメインプロンプト](templates/metaprompt_wbs.md)
